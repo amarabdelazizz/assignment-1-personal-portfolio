@@ -1,0 +1,242 @@
+ .container {
+     width: 85%;
+     margin: auto;
+
+ }
+
+ .bg-whitesmoke {
+     background-color: whitesmoke;
+ }
+
+ .bg-lightgray {
+     background-color: lightgray;
+ }
+
+ .box-sizing {
+     box-sizing: border-box;
+ }
+
+ .clear-fix {
+     clear: both;
+ }
+
+ div.header {
+     background-color: #172e50;
+     text-align: center;
+     color: white;
+     border-radius: 20px;
+     padding: 20px;
+
+ }
+
+ .header a {
+     color: white;
+     margin: 5px;
+     text-decoration: none;
+     background-color: #365987;
+     border-radius: 30px;
+     padding: 10px;
+ }
+
+ .m-b {
+     margin-bottom: 30px;
+ }
+
+ .m-top {
+     margin-top: 10px;
+ }
+
+
+ .bg-rgb243 {
+     background-color: rgb(243, 238, 238);
+ }
+
+ .border-padding {
+     border-radius: 20px;
+     padding-inline: 20px;
+     padding-bottom: 15px;
+ }
+
+ .about-me img {
+     width: 10%;
+     border-radius: 50%;
+     float: left;
+     margin-right: 25px;
+     border: 5px solid lightblue;
+ }
+
+ .border-b {
+     border-bottom: 2px rgb(210, 213, 246) solid;
+ }
+
+ .navy-color {
+     color: #254875;
+ }
+.about-me{
+    padding-bottom: 35px ;
+}
+ .about-me h2 {
+     padding: 20px;
+     margin-right: 5px;
+ }
+
+ .about-text {
+     padding-bottom: 30px;
+     padding-top: 5px;
+     
+ }
+
+ .about-me .btn {
+     color: #fafafa;
+     background-color: #1a4072;
+     padding: 10px 20px;
+     border-radius: 5px;
+     text-decoration: none;
+     
+ }
+
+ .my-skills {
+     border-radius: 20px;
+     padding-inline: 20px;
+     margin-block: 19px;
+
+ }
+
+ .my-skills h2 {
+     padding: 20px;
+ }
+
+ .skills {
+     background-color: rgb(245, 238, 238);
+     border-radius: 10px;
+     padding: 15px;
+     float: left;
+     margin: 18px;
+     border: lightgrey 2px solid;
+ }
+
+ .Experience {
+     padding-inline: 20px;
+     border-radius: 20px;
+     padding-bottom: 5px;
+     background-color: whitesmoke;
+     margin: auto;
+ }
+
+ .Experience h2 {
+     padding-block: 20px;
+
+ }
+
+ .tech-corp {
+     background-color: rgb(227, 238, 241);
+     padding: 15px;
+     width: 92%;
+     margin: 10px 30px;
+     border-radius: 15px;
+     border-left: #1a4072 5px solid;
+ }
+
+ .tech-corp img {
+     width: 5%;
+     border-radius: 10%;
+     float: left;
+     background-color: white;
+     border: lightgray 2px solid;
+     padding: 5px;
+     margin-bottom: 5px;
+     margin-top: 17px;
+ }
+
+ .text-ex1 {
+     margin-left: 80px;
+     padding-bottom: 0px;
+ }
+
+
+
+
+ .agency-pro {
+     background-color: rgb(227, 238, 241);
+     padding: 15px;
+     width: 92%;
+     margin: 20px 30px;
+     border-radius: 15px;
+     border-left: #1a4072 5px solid;
+ }
+
+ .agency-pro img {
+     width: 5%;
+     border-radius: 15%;
+     float: left;
+     background-color: white;
+     border: lightgray 2px solid;
+     padding: 5px;
+     margin-top: 17px;
+ }
+
+ .text-ex2 {
+     padding-bottom: 0px;
+     margin-left: 80px;
+ }
+
+ .contact {
+     padding: 0px 20px;
+     border-radius: 15px;
+     padding-bottom: 50px;
+     background-color: #172e50;
+     color: white;
+     margin-top: 20px;
+
+ }
+
+ .contact h2 {
+     padding: 20px;
+     margin-right: 5px;
+     border-bottom: #405175 2px solid;
+ }
+
+ .contact p {
+     margin-block: 30px;
+ }
+
+ .contact a {
+     color: white;
+     background-color: #283e5fb1;
+     padding: 10px;
+     margin: 15px 5px;
+     border-radius: 5px;
+     text-decoration: none;
+ }
+
+ .copyright {
+     background-color: #04142b;
+     color: white;
+     text-align: center;
+     padding: 5px 60px;
+     /* margin: 10px 0px; */
+     border-radius: 10px;
+     margin-block: 20px;
+ }
+.copyright p{
+    margin-bottom: 50px;
+    margin-right: 470px;
+}
+
+ .copyright img {
+     width: 1%;
+     background-color: #04142b;
+     float: left;
+     margin-left: 450px;
+     padding-top: 20px;   
+ }
+
+ .copyright span {
+      color: #5e9af4;
+ }
+ .light-blue-span1{
+    color: #2a6acb;
+ }
+ .light-blue-span{
+    color: #0052aa;
+ }
